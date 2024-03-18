@@ -5,6 +5,8 @@
 
 <h3 align="left">Connect with me: **chjnw0204@gmail.com**</h3> 
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=cJinu&show_icons=true&theme=dark" width = "65%">
 <p align="left">
 </p>
 
