@@ -6,9 +6,9 @@
 <h3 align="left">Connect with me: **chjnw0204@gmail.com**</h3> 
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cJinu" width="30%">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lure" width="30%">
 <img src="https://github-readme-stats.vercel.app/api?username=cJinu&show_icons=true&theme=dark" width = "65%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cJinu" width="28%">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lure" width="28%">
 <p align="left">
 </p>
 
