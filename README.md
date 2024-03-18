@@ -8,6 +8,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=cJinu&show_icons=true&theme=dark" width = "65%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cJinu" width="28%">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lure)](https://solved.ac/lure/)
 <p align="left">
 </p>
 
